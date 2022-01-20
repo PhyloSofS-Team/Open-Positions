@@ -11,4 +11,6 @@ To know more, take a look at the full proposal: http://ibio.sorbonne-universite.
 Interested candidates should apply for the program before **March 24, 2022** here: http://ibio.sorbonne-universite.fr/2022-program/.
 
 **Selected candidates will obtain funding for 4 years:** 1 pre-doc rotation year + 3 years for the PhD project. During the first pre-doc year, they will be able to experiment with three parisian labs from the Institut de Biologie Paris-Seine and Institut du Fer à Moulin on three different subjects. They will choose their PhD subject and host lab at the end of this pre-doc year.  
+
+Check out the flyer!
 [Flyer i-Bio PreDoc+PhD Call 2022.pdf](https://github.com/PhyloSofS-Team/Open-Positions/files/7903694/Flyer.i-Bio.PreDoc%2BPhD.Call.2022.pdf)
